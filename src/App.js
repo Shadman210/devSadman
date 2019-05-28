@@ -1,24 +1,30 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
-
+import React from "react";
+import './App.css'
+import { Layout, Header, Navigation, Content } from "react-mdl";
+import { Link } from 'react-router-dom';
+import Main from './components/main'
+import { white } from "ansi-colors";
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+
+
+
+    <div className="demo-big-content">
+      <Layout>
+        <Header className='header-color' title={<Link to="/" style={{ textDecoration: 'none', color: "white" }}> MyPortFolio</Link>} >
+          <Navigation>
+            <Link to="/projects">Projects</Link>
+            <Link to="/resume">Resume</Link>
+            <Link to="/contact">Contact</Link>
+          </Navigation>
+        </Header>
+
+
+        <Content>
+          <div className="page-content" />
+          <Main />
+        </Content>
+      </Layout>
     </div>
   );
 }
