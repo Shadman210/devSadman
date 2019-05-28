@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/devSadman/static/css/main.ce7322e2.chunk.css",
-    "main.js": "/devSadman/static/js/main.9d957c45.chunk.js",
-    "main.js.map": "/devSadman/static/js/main.9d957c45.chunk.js.map",
-    "runtime~main.js": "/devSadman/static/js/runtime~main.9195a7d0.js",
-    "runtime~main.js.map": "/devSadman/static/js/runtime~main.9195a7d0.js.map",
-    "static/css/2.60a6b8e0.chunk.css": "/devSadman/static/css/2.60a6b8e0.chunk.css",
-    "static/js/2.ef1e254d.chunk.js": "/devSadman/static/js/2.ef1e254d.chunk.js",
-    "static/js/2.ef1e254d.chunk.js.map": "/devSadman/static/js/2.ef1e254d.chunk.js.map",
-    "index.html": "/devSadman/index.html",
-    "precache-manifest.f8cf30289336ba8ee7eab995460cad0b.js": "/devSadman/precache-manifest.f8cf30289336ba8ee7eab995460cad0b.js",
-    "service-worker.js": "/devSadman/service-worker.js",
-    "static/css/2.60a6b8e0.chunk.css.map": "/devSadman/static/css/2.60a6b8e0.chunk.css.map",
-    "static/css/main.ce7322e2.chunk.css.map": "/devSadman/static/css/main.ce7322e2.chunk.css.map",
-    "static/media/resume.jpg": "/devSadman/static/media/resume.3a18dbba.jpg",
-    "static/media/sadman.jpg": "/devSadman/static/media/sadman.08bfffdd.jpg"
+    "main.css": "/static/css/main.ce7322e2.chunk.css",
+    "main.js": "/static/js/main.c88d99ed.chunk.js",
+    "main.js.map": "/static/js/main.c88d99ed.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.60a6b8e0.chunk.css": "/static/css/2.60a6b8e0.chunk.css",
+    "static/js/2.14392966.chunk.js": "/static/js/2.14392966.chunk.js",
+    "static/js/2.14392966.chunk.js.map": "/static/js/2.14392966.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b2fb782df8b453a2e9dbd9e42f3f36c5.js": "/precache-manifest.b2fb782df8b453a2e9dbd9e42f3f36c5.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.60a6b8e0.chunk.css.map": "/static/css/2.60a6b8e0.chunk.css.map",
+    "static/css/main.ce7322e2.chunk.css.map": "/static/css/main.ce7322e2.chunk.css.map",
+    "static/media/resume.jpg": "/static/media/resume.3a18dbba.jpg",
+    "static/media/sadman.jpg": "/static/media/sadman.08bfffdd.jpg"
   }
 }
