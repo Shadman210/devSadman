@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d3aad0460cc23d87925911b20bb55d94",
+    "revision": "71ea45495c5f565cfad59b059901aa3f",
     "url": "/devSadman/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/devSadman/static/css/2.60a6b8e0.chunk.css"
   },
   {
-    "revision": "71a118ebfe8350707588",
+    "revision": "1a3c5afb2acf8fd044d5",
     "url": "/devSadman/static/css/main.ce7322e2.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/devSadman/static/js/2.ef1e254d.chunk.js"
   },
   {
-    "revision": "71a118ebfe8350707588",
-    "url": "/devSadman/static/js/main.0553f1e5.chunk.js"
+    "revision": "1a3c5afb2acf8fd044d5",
+    "url": "/devSadman/static/js/main.69206f5c.chunk.js"
   },
   {
     "revision": "715e2e5605428d30ee35",
