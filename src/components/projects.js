@@ -8,11 +8,8 @@ import {
   CardTitle,
   CardText,
   CardActions,
-  Button,
-  CardMenu,
-  IconButton,
 } from "react-mdl";
-import logo from "../files/resume.jpg";
+
 export class projects extends Component {
   constructor(props) {
     super(props);
